@@ -49,7 +49,4 @@ document.addEventListener('DOMContentLoaded', function () {
             addTask();
         }
     });
-
-    // Optionally, call addTask on DOMContentLoaded if needed (usually not required for empty list)
-    // addTask();
 });
